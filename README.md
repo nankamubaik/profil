@@ -27,7 +27,7 @@
 <li>
  <b>Name:</b> Miella</li>
 <li>
-<b>Fursona:</b> Grey Wolf/Snow Fox, sometimes a Bird
+
 </li>
 <li>
 <b>Loves:</b> anime, osu, rhythm games
