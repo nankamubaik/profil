@@ -26,9 +26,7 @@
   </div>
 <li>
  <b>Name:</b> Miella</li>
-<li>
 
-</li>
 <li>
 <b>Loves:</b> anime, osu, rhythm games
 </li>
