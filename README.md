@@ -17,7 +17,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" style="margin-left:20px;">
   </div>
 <li><b>Name:</b> Miella</li>
 <li><b>Loves:</b> anime, osu, rhythm games</li>
@@ -31,7 +31,10 @@
 <div>
 <h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://camo.githubusercontent.com/e0e713d114d3c6f503b32db8d72ec0d0d000b61c7f9a6dae23f9047c705baf6c/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966" 
+     align="right" 
+     width="350px" 
+     style="margin-left:20px;">
   </div>
 </div>
 
@@ -49,7 +52,7 @@
 
 <h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <div align="center">
-  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px" style="margin-left:20px;">
 </div>
 <br>
 <p align="center">Here are some of my most used socials:</p>
