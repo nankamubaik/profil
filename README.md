@@ -12,8 +12,8 @@
 <p>🛠️ Selalu ada quest baru buat diselesaikan</p>
 <p>🚂 Suara rel jadi soundtrack petualangan</p>
 <p>🏆 Dan kamu player utamanya</p>
+<p><a href="https://youtu.be/IN0KkGeEURw?si=4ThNB_UfDOT_7swM" target="_blank">- Bob Marley</a></p>
 
-<p><a "https://youtu.be/IN0KkGeEURw?si=4ThNB_UfDOT_7swM">- Bob Marly</a><p>
   
 </div>
     <div align="center">
